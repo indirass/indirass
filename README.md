@@ -1,18 +1,38 @@
-# Data Analytics Portfolio
+# Hi, I'm Indi
 
-Hi, I'm Indira Santana Schirmer.
+I'm a Business Informatics student at FernUniversität in Hagen, currently building my skills in technology, programming and data analysis.
 
-I'm currently studying Business Informatics at FernUniversität in Hagen and building practical skills in data analytics and BI.
+## About Me
+
+🎓 B.Sc. Business Informatics — FernUniversität in Hagen  
+📊 Interested in Data Analytics and Business Intelligence  
+🇩🇪 Based in Germany  
+🎯 Aspiring to work as a Working Student in a data-related role
+
+## Current Skills
+
+### Programming & Data
+
+- Excel — Basic/Intermediate
+- SQL — Basic
+- Python — Basic
+
+### Tools
+
+- Git
+- GitHub
 
 ## Projects
 
 ### Family Finance Analysis
-Excel · Power Query · SQL · Power BI
 
-[View project →]
+A practical project using household finance data to develop my skills in Excel and data analysis.
 
-### E-commerce Sales Analysis
-SQL · Python · Pandas · Power BI
+[View project →](#)
 
-[View project →]
+## Education
 
+### FernUniversität in Hagen
+
+**B.Sc. Wirtschaftsinformatik**  
+2026 – Present
